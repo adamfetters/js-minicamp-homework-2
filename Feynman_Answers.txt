@@ -1,0 +1,25 @@
+1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
+		
+	* `for`
+	* `&&`, `||`, `!`
+	* Arrays
+	* Git
+	* GitHub
+
+
+For - This loops through a block of code a set amount of times.
+
+&& - This means "and". When combining 2 or more conditions to check if true, both statments on either side of this must be true for the whole expression to be true.
+
+|| - This means "or". When combining 2 or more condictions , a true statement on either side of this means the whole expression is true. 
+
+! - This means not. Whatever the outcome of the expression is (either true or false), this returns the opposite. True = false, false = true.
+
+Arrays - These are boxes that hold many values in one varaiable. Usually you group like types into these such as strings with strings, integers with integers, but you can group any types of values you want. 
+
+	anArrayOfNumbers= [1, 3, 4, 5, 6];
+	multipleTypeArray = ['name', 43, true];
+
+Git - This is a software tool that allows you to keep track of changes to your files locally on your computer. You can make changes, keep track of those with messages, go back to old files if you make a mistake, and maintain different versions of your files.
+
+GitHub - This is a hosting service that allows you to push the files you are tracking with Git to. This means you can work with many people anywhere they are, while also keeping a backed up copy on the internet. 
